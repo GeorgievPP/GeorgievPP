@@ -1,44 +1,63 @@
-# Hi, I'm Petyo 👋  
-### Junior Frontend Developer | Angular & TypeScript
+<h1 align="center">Hi, I'm Petyo 👋</h1>
 
-I build production-ready web applications with a focus on clean architecture, maintainable code, and real-world functionality.
+<p align="center">
+  <b>Junior Angular Developer</b> • <b>TypeScript</b> • Building production-ready web apps
+</p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/RxJS-B7178C?logo=reactivex&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+</p>
 
-## 🚀 Main Project
-
-### 🎟️ Eventify — Event Ticketing Platform  
-Full-stack web application for event management and ticket sales.
-
-**Frontend:** Angular, TypeScript, RxJS  
-**Backend:** Node.js, Express, MongoDB  
-**Features:** Authentication, role-based access, admin dashboard, order management
-
-🔗 Live Demo: https://eventify-one-eta.vercel.app/
-🔗 Frontend Repo: https://github.com/GeorgievPP/eventify  
-🔗 Backend Repo: https://github.com/GeorgievPP/eventify-api  
-
----
-
-## 🧠 Angular Practice Projects
-
-### Angular Tasks  
-Collection of small Angular applications focused on clean architecture and modern best practices.
-
-🔗 https://github.com/GeorgievPP/angular-tasks
+<p align="center">
+  <a href="https://www.linkedin.com/in/petyo-georgiev-725b5a240/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white"></a>
+  <a href="https://eventify-one-eta.vercel.app"><img alt="Live Demo" src="https://img.shields.io/badge/Eventify-Live%20Demo-22C55E?logo=vercel&logoColor=white"></a>
+  <a href="https://github.com/GeorgievPP"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-GeorgievPP-181717?logo=github&logoColor=white"></a>
+</p>
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Main Project — Eventify (Full-Stack Event Ticketing Platform)
+
+**Production-ready full-stack app** with authentication, role-based access, admin dashboard, and full order workflow.
+
+- **Live Demo:** https://eventify-one-eta.vercel.app
+- **Frontend (Angular):** https://github.com/GeorgievPP/eventify
+- **Backend (Node/Express):** https://github.com/GeorgievPP/eventify-api
+
+**Tech:** Angular • TypeScript • RxJS • Node.js • Express • MongoDB • REST APIs • JWT Auth
+
+---
+
+## 🧩 Angular Practice — angular-tasks
+
+Collection of small Angular apps focused on clean architecture, state management, and modern Angular features.
+
+- Repo: https://github.com/GeorgievPP/angular-tasks
+
+---
+
+## 🛠️ Tech Stack
 
 **Frontend:** Angular, TypeScript, RxJS, HTML, CSS  
 **Backend:** Node.js, Express  
 **Database:** MongoDB  
-**Tools:** Git, REST APIs, JWT Authentication
+**Tools:** Git, REST APIs, JWT Auth
 
 ---
 
-## 🎯 Currently Looking For
+## 📌 Currently Looking For
 
-Junior Angular / Frontend Developer role  
-Open to Sofia & Remote opportunities
+- **Junior Angular / Frontend Developer** role
+- Open to **Sofia (hybrid/on-site)** and **remote** opportunities
+
+---
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=GeorgievPP&show_icons=true&hide_title=true&include_all_commits=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgievPP&layout=compact" />
+</p>
