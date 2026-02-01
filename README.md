@@ -57,7 +57,18 @@ Collection of small Angular apps focused on clean architecture, state management
 
 ---
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=GeorgievPP&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgievPP&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" />
-</p>
+---
+
+## 🤝 Let’s Connect
+
+I’m actively looking for a **Junior Angular / Frontend Developer** role and open to collaborating on real-world projects.
+
+If you’re a recruiter, hiring manager, or developer who’d like to connect:
+
+📩 Reach me on **LinkedIn**  
+🔗 https://www.linkedin.com/in/petyo-georgiev-725b5a240/
+
+Or explore my main project:
+
+🚀 **Eventify Live Demo**  
+https://eventify-one-eta.vercel.app
