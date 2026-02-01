@@ -57,8 +57,6 @@ Collection of small Angular apps focused on clean architecture, state management
 
 ---
 
----
-
 ## 🤝 Let’s Connect
 
 I’m actively looking for a **Junior Angular / Frontend Developer** role and open to collaborating on real-world projects.
