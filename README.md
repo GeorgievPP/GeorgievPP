@@ -34,7 +34,7 @@ Collection of small Angular applications focused on clean architecture and moder
 **Frontend:** Angular, TypeScript, RxJS, HTML, CSS  
 **Backend:** Node.js, Express  
 **Database:** MongoDB  
-**Tools:** Git, REST APIs, JWT Auth
+**Tools:** Git, REST APIs, JWT Authentication
 
 ---
 
