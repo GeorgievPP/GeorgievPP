@@ -58,6 +58,6 @@ Collection of small Angular apps focused on clean architecture, state management
 ---
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=GeorgievPP&show_icons=true&hide_title=true&include_all_commits=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgievPP&layout=compact" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=GeorgievPP&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgievPP&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" />
 </p>
